@@ -21,4 +21,4 @@ This repository contains my solutions to LeetCode problems using **C++**.
 ## Language
 - C++
 
-⭐ Continuously updating as I solve more problems!
+⭐ Continuously updating as I solve more problem !
