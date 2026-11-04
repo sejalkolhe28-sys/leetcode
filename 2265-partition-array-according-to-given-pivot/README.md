@@ -41,5 +41,5 @@ The relative ordering of the elements less than and greater than pivot is also m
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>6</sup> &lt;= nums[i] &lt;= 10<sup>6</sup></code></li>
-	<li><code>pivot</code> equals to an elementof <code>nums</code>.</li>
+	<li><code>pivot</code> equals to an element of <code>nums</code>.</li>
 </ul>
