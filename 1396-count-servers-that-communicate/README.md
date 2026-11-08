@@ -19,7 +19,7 @@ Return the number of servers&nbsp;that communicate with any other server.</p>
 <pre>
 <strong>Input:</strong> grid = [[1,0],[1,1]]
 <strong>Output:</strong> 3
-<b>Explanation:</b>&nbsp;All 3 servers can communicate with at least one other server.
+<b>Explanation:</b>&nbsp;All three servers can communicate with at least one other server.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
