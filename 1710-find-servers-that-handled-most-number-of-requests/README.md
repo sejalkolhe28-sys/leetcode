@@ -22,7 +22,7 @@ All of the servers start out available.
 The first 3 requests are handled by the first 3 servers in order.
 Request 3 comes in. Server 0 is busy, so it&#39;s assigned to the next available server, which is 1.
 Request 4 comes in. It cannot be handled since all servers are busy, so it is dropped.
-Servers zero and 2 handled one request each, while server 1 handled two requests. Hence server 1 is the busiest server.
+Servers 0 and 2 handled one request each, while server 1 handled two requests. Hence server 1 is the busiest server.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
