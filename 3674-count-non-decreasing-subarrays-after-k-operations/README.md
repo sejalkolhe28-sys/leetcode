@@ -6,7 +6,7 @@
 
 <p>Return the number of subarrays that you can make <strong>non-decreasing</strong> ​​​​​after performing at most <code>k</code> operations.</p>
 
-<p>An array is said to be <strong>non-decreasing</strong> if each element is greater than or equal to its previous element, if it exists.</p>
+<p>Anarray is said to be <strong>non-decreasing</strong> if each element is greater than or equal to its previous element, if it exists.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
