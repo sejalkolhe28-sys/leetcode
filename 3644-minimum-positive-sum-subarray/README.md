@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-positive-sum-subarray">Minimum Positive Sum Subarray </a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and <strong>two</strong> integers <code>l</code> and <code>r</code>. Yourtask is to find the <strong>minimum</strong> sum of a <strong>subarray</strong> whose size is between <code>l</code> and <code>r</code> (inclusive) and whose sum is greater than 0.</p>
+<h2><a href="https://leetcode.com/problems/minimum-positive-sum-subarray">Minimum Positive Sum Subarray </a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and <strong>two</strong> integers <code>l</code> and <code>r</code>. Your task is to find the <strong>minimum</strong> sum of a <strong>subarray</strong> whose size is between <code>l</code> and <code>r</code> (inclusive) and whose sum is greater than 0.</p>
 
 <p>Return the <strong>minimum</strong> sum of such a subarray. If no such subarray exists, return -1.</p>
 
