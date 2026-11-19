@@ -20,7 +20,7 @@
 
 <ul>
 	<li>Change <code>nums[0]</code> and <code>nums[1]</code> to be 6 so that <code>nums</code> becomes [6,6,7,8,5].</li>
-	<li>The low score is the minimum absolute difference: |6 - 6| = 0.</li>
+	<li>The low-score is the minimum absolute difference: |6 - 6| = 0.</li>
 	<li>The high score is the maximum absolute difference: |8 - 5| = 3.</li>
 	<li>The sum of high and low score is 3.</li>
 </ul>
